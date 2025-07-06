@@ -30,7 +30,7 @@ This task demonstrates the use of different JOIN types to merge and relate data 
 
 ## 📁 Files
 
-- task5.sql – contains all JOIN queries
+- sql-library-task5 – contains all JOIN queries
 - README.md – explanation and summary
 
 ---
